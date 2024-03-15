@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wordshere.Api.Application",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wordsphere.Infrastructure.Persistance", "src\Api\Infrastructure\Wordsphere.Infrastructure.Persistance\Wordsphere.Infrastructure.Persistance.csproj", "{C04EBF56-0D49-4C40-B6CA-2CF469F75A81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wordsphere.Api.WebaApi", "Wordsphere.Api.WebaApi\Wordsphere.Api.WebaApi.csproj", "{8BE09C86-C4C4-42EF-868F-5B9E4E93EE04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{C04EBF56-0D49-4C40-B6CA-2CF469F75A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C04EBF56-0D49-4C40-B6CA-2CF469F75A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C04EBF56-0D49-4C40-B6CA-2CF469F75A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE09C86-C4C4-42EF-868F-5B9E4E93EE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE09C86-C4C4-42EF-868F-5B9E4E93EE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE09C86-C4C4-42EF-868F-5B9E4E93EE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE09C86-C4C4-42EF-868F-5B9E4E93EE04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -49,6 +55,7 @@ Global
 		{219B6B38-82CB-4344-8AEB-A8923D2FB35B} = {B8C8958D-D93C-4A1F-9564-289142B03453}
 		{B7FA5848-7160-4D25-ADF8-9447C9B37F5A} = {B8C8958D-D93C-4A1F-9564-289142B03453}
 		{C04EBF56-0D49-4C40-B6CA-2CF469F75A81} = {535B8E90-1F41-4617-9F29-37981912FFFE}
+		{8BE09C86-C4C4-42EF-868F-5B9E4E93EE04} = {0B5A617E-3D2B-4E38-A738-1EE3FD410E5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8954AFDA-AB4B-4CF5-A456-9C740080426F}
